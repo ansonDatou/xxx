@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.zhifu.common.config.WxMaProperties",
+      "name": "wx.miniapp",
+      "type": "com.zhifu.common.config.WxMaProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.zhifu.common.config.WxMaProperties",
+      "name": "wx.miniapp.configs",
+      "type": "java.util.List<com.zhifu.common.config.WxMaProperties.Config>"
+    }
+  ]
+}
